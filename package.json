@@ -1,0 +1,13 @@
+{
+  "name": "@nbyodai/tini",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Removes spaces from a string",
+  "keywords": [
+    "tini",
+    "nbyodai",
+    "npm",
+    "package"
+  ],
+  "repository": "nbyodai/tini"
+}
