@@ -1,6 +1,6 @@
 {
   "name": "@nbyodai/tini",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "description": "Removes spaces from a string",
   "keywords": [
